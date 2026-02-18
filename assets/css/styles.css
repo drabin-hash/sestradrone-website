@@ -28,7 +28,7 @@ select {
 html,
 body {
   min-height: 100%;
-}
+} 
 
 :root {
   --bg: #0f1115;
@@ -48,12 +48,6 @@ body {
   line-height: 1.5;
   background: radial-gradient(circle at 10% 10%, #1f2430, var(--bg) 45%);
   color: var(--text);
-}
-
-.home-page {
-  background-image: url("../../IMG_8023.JPG");
-  background-repeat: repeat;
-  background-size: 420px auto;
 }
 
 a {
