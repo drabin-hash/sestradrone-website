@@ -152,12 +152,12 @@ audio:focus-visible {
 
 /* Hero */
 .hero {
-  min-height: 56vh;
+  min-height: 30vh;
   display: grid;
   align-items: end;
   background:
     linear-gradient(rgba(15, 17, 21, 0.35), rgba(15, 17, 21, 0.9)),
-    url("../../IMG_8023.JPG") center/cover no-repeat;
+    /*url("../../IMG_8023.JPG") center/cover no-repeat;*/
   border-bottom: 1px solid var(--line);
 }
 
