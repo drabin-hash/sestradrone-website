@@ -55,11 +55,11 @@ a {
 }
 
 .home-page {
-  background-image: url("../../IMG_8023.JPG");
+  background-image: url("../../assets/img/labute.JPG");
   background-repeat: repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: local;
 }
 
 
